@@ -1,4 +1,4 @@
-# Gee-Eche Alphabet Typer                     
+# Experimental Alphabet Typer                     
 
 Copyright © 2017 - 2024 [Lance](https://github.com/xzdxrz) & ["Mäßigkeit"](https://github.comjsph06)                                
 
